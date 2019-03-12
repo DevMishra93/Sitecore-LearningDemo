@@ -1,0 +1,6 @@
+<Project>
+    <PropertyGroup>
+        <UnicornControlPanelUrl>http://learningdemo/unicorn.aspx</UnicornControlPanelUrl>
+        <UnicornSharedSecret>rqgaKknLdS68nTCX6KUBfUzLctR9AysFyaRVhXsDUyzJ7Jaw67tS5Q46EXMCx6SLx47EJqtXg7p4JK8NPdfBvUZQuXXjMADbfutzNS7Z9dNr6esExPanTPMubdqk2DpsMBHQecSNbzxUdx2q9MFB254kLLzrm9csq49UcuQHG67eb8kuUNUHmn2DCUyCGJWXA9vGfst5UDFUzgctRwL7cX8eyTtS5QnfAQDdPznVfp7Dqqtbxvu6mBrH5xKQag3A</UnicornSharedSecret>
+    </PropertyGroup>
+</Project>

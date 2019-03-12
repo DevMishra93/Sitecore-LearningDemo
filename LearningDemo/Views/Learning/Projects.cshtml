@@ -1,0 +1,30 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Projects Display</title>
+</head>
+<body>
+    @if (Model == null)
+    {
+        <div>
+            This is a project
+        </div>
+    }
+    else
+    {
+        <div>
+            Model Title @Model.Title
+        </div>
+
+        <div>
+            Model Desc @Model.Desc
+        </div>
+    }
+</body>
+</html>
