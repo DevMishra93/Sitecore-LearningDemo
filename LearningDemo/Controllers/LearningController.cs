@@ -1,4 +1,4 @@
-﻿using LearningDemo.Models;
+using LearningDemo.Models;
 using Sitecore.Mvc.Presentation;
 using System.Web.Mvc;
 
@@ -19,6 +19,7 @@ namespace LearningDemo.Controllers
 
             var context = Sitecore.Context.Item;
 
+            //Edited on visual studio codespaces.
             var currentItem = datasourceItem == null
                 ? new Project
                 {
